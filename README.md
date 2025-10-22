@@ -21,7 +21,7 @@ Instala las librerías necesarias:
 
 ## Ejecución
 
-Coloca el archivo sanidad.csv dentro de la carpeta data/.
+Coloca el archivo insurance.csv dentro de la carpeta data/.
 
 Ejecuta el script principal:
 
